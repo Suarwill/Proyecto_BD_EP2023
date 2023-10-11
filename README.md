@@ -2,11 +2,11 @@
 Proyecto de base de datos: "Empresa de Pedidos" 2023
 
 Archivo BD_pedidos.sql:
-- Lineas 3-39:   Creacion de tablas
-- Lineas 40-44:  Verificacion
-- Lineas 47-64:  Insercion de datos
-- Lineas 66-70:  Verificacion de contenido de tablas.
-- Lineas 73-82:  Manipulacion de datos (Obtener nombre, articulos y segun cantidad).
+- Lineas 2-16:   Creacion de tablas
+- Lineas 17-21:  Verificacion
+- Lineas 24-48:  Insercion de datos
+- Lineas 50-54:  Verificacion de contenido de tablas.
+- Lineas 56-66:  Manipulacion de datos.
 
 Texto del encargo:
 "Se desea informatizar la gestión de una empresa de transportes que reparte paquetes. Los encargados de llevar los paquetes son los camioneros, de los que se quiere guardar RUT, nombre, teléfono, dirección, salario y población en la que vive. 
