@@ -6,8 +6,8 @@ De las ciudades a las que llegan los paquetes interesa guardar el código de la 
 De los camiones que manejan los camioneros o conductores, interesa conocer la matrícula, modelo, tipo y potencia. Un camionero o conductor puede conducir diferentes camiones en fechas diferentes, y un camión puede ser conducido por  varios camioneros o conductores. "
 
 Archivo BD_pedidos.sql:
-    Lineas 3-39:   Creacion de tablas
-    Lineas 40-44:  Verificacion
-    Lineas 47-64:  Insercion de datos
-    Lineas 66-70:  Verificacion de contenido de tablas.
-    Lineas 73-82:  Manipulacion de datos (Obtener nombre, articulos y segun cantidad).
+- Lineas 3-39:   Creacion de tablas
+- Lineas 40-44:  Verificacion
+- Lineas 47-64:  Insercion de datos
+- Lineas 66-70:  Verificacion de contenido de tablas.
+- Lineas 73-82:  Manipulacion de datos (Obtener nombre, articulos y segun cantidad).
