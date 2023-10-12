@@ -3,7 +3,7 @@ Proyecto de base de datos: "Empresa de Pedidos" 2023
 
 Archivo MERN_BD_pedidos.pdf:
 - Diseño de la base de datos.
-- 
+
 Archivo BD_pedidos.sql:
 - Lineas 2-16:   Creacion de tablas
 - Lineas 17-21:  Verificacion
