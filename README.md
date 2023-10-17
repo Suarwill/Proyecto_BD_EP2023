@@ -17,6 +17,7 @@ Proyecto de base de datos: "Empresa de Pedidos" 2023
   - Líneas 75-85: Manipulación de datos
 <br>
 ### Texto del encargo:
+
 "Se desea informatizar la gestión de una empresa de transportes que reparte paquetes.<br>
 Los encargados de llevar los paquetes son los camioneros, de los que se quiere guardar RUT, nombre, teléfono, dirección, salario y población en la que vive.<br>
 De los paquetes transportados interesa conocer el código de paquete, descripción, destinatario y dirección del destinatario. Un camionero o conductor distribuye muchos paquetes, y un paquete sólo puede ser distribuido por un camionero. <br>
