@@ -15,7 +15,7 @@ Proyecto de base de datos: "Empresa de Pedidos" 2023
   - Líneas 69-73: Verificación de contenido de tablas
 - **Manipulación de datos:**
   - Líneas 75-85: Manipulación de datos
-<br>
+
 ### Texto del encargo:
 
 "Se desea informatizar la gestión de una empresa de transportes que reparte paquetes.<br>
