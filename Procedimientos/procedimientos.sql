@@ -4,5 +4,5 @@ BEGIN
     UPDATE planta SET sueldo=sueldo+(sueldo*0.05)
 END;
 
--- Ejecutar el Procedimiento
+-- Ejecutar el Procedimiento de Aumento
 EXEC Ajuste_salarial;
